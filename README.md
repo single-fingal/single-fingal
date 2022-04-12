@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @single-fingal.
-- 👀 I’m interested in creating software and working together to do so.
-- 🌱 I’m currently learning Python. Focusing on GUI programming with Python and relatively low-level (for userspace) applications and integrations, for now.
-- 💞️ I’m looking to collaborate on almost anything written in Python.
+- 👀 I’m interested in creating useful software and working together to do so.
+- 🌱 I’m currently exercising my Python muscles. I've been at it sincerely for a few years, now. Currently focusing on relatively low-level (for userspace) applications and integrations, but my experience is wide, and interests are wider.
+- 💞️ I’m looking to collaborate on almost anything written in Python, for now.
 - 📫 How to reach me: xezontub at pm.me
 
 <!---
